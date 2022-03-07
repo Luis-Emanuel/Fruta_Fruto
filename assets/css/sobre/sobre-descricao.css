@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+.sobre__descricao{
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    font-size: 1.75rem;
+    color:#8C8888;
+}
