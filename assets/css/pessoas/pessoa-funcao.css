@@ -1,0 +1,7 @@
+@charset "UTTF-8";
+
+.pessoa__funcao{
+    text-transform: lowercase;
+    color: #8C8888;
+    font-size: 1.25rem;
+}

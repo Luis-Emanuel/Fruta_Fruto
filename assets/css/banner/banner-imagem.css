@@ -1,5 +1,10 @@
 @charset "UTF-8";
 
 .banner__imagem{
-    width: 100vw;
+    background-image: url(../../img/banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:70vh;
+    width: 100%;
 }

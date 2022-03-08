@@ -1,0 +1,13 @@
+@charset "UTTF-8";
+
+.pessoas{
+    display: flex;
+    padding-top: 3rem;
+    justify-content: space-around;
+}
+@media screen and (max-width: 768px){
+    .pessoas{
+        flex-direction: column;
+        p
+    }
+}
