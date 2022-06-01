@@ -1,0 +1,11 @@
+.quem-somos__titulo{
+    margin-bottom: 1rem;
+    color: var(--vinho);
+    font-size: 3.1875rem;
+    font-family: var(--titulo);
+}
+@media screen and (max-width:769px){
+    .quem-somos__titulo{
+        font-size: 2rem;
+    }
+}

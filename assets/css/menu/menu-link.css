@@ -3,7 +3,7 @@
     font-weight: bold;
 }
 .menu__link{
-    color: var(--funfo-alternativo);
+    color: var(--texto-link);
     margin-right: 1.25rem;
     text-decoration: none;
     text-transform: lowercase;

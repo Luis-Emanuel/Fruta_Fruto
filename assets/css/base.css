@@ -1,6 +1,18 @@
 :root{
     /*CORES*/
-    --fundo: #f9f9f9;
-    --fundo-alternativo: #808080;
+    --texto-banner: #fdfdfd;
+    --texto-descricao: #595959;
+    --texto-link: #808080;
     --link-ativo: #333333;
+    --vinho: #8d0606;
+    --fundo-cabecalho: #f9f9f9;
+    --fundo-receita: #e5e5e5;
+    --fundo-rodape: #bfbfbf;
+    --fundo-cartao-receita: #fdfdfd;
+    --botao-clicando: #620404;
+    
+    /*TEXTO FONTE*/
+    --titulo: Pacifico, cursiva;
+    /*SOMBRA*/
+    --sombra-texto-titulo:0 4px 4px 0,0,0,0.75;
 }

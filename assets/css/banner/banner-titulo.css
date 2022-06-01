@@ -1,0 +1,17 @@
+.banner__titulo{
+    color: var(--texto-banner) ;
+    font-family: var(--titulo) ;
+    font-size: 5.0625rem;
+    left: 50%;
+    position: absolute;
+    text-shadow: var(--sombra-texto-titulo);
+    top: 50%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+@media screen and (max-width:769px){
+    .banner__titulo{
+        font-size: 3rem;
+    }
+}

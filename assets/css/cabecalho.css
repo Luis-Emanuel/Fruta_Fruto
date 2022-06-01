@@ -1,0 +1,12 @@
+.cabecalho{
+    align-items: center;
+    background-color: var(--fundo-cabecalho);
+    display: flex;
+    justify-content: space-between;
+    padding:  0px 2rem;
+}
+@media screen and (max-width:769px){
+    .cabecalho{
+        flex-direction: column;
+    }
+}
